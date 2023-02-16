@@ -1,0 +1,89 @@
+* {
+    font-family: 'Jost', sans-serif;
+}
+
+.toolkit {
+    height: 40vh;
+    background-image: url('../assets/trees.gif');
+    background-size: 92%;
+}
+
+.header {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 500;
+}
+
+.skills__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.skill__block {
+    height: 20vh;
+    width: 12vw;
+    margin: 20px 15px;
+}
+
+#skill1 {
+    background-image: url("../assets/react_logo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#skill2 {
+    background-image: url("../assets/html_logo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#skill3 {
+    background-image: url("../assets/css_logo.png");
+    background-size: 71%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#skill4 {
+    background-image: url("../assets/js_logo.jpg");
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#skill5 {
+    background-image: url("../assets/python_logo.png");
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#skill6 {
+    background-image: url("../assets/java_logo.jpg");
+    background-size: 72%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#skill7 {
+    background-image: url("../assets/c_logo.png");
+    background-size: 85%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#skill8 {
+    background-image: url("../assets/github_logo.png");
+    background-size: 95%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#skill9 {
+    background-image: url("../assets/unity_logo.png");
+    background-size: 95%;
+    background-position: top;
+    background-repeat: no-repeat;
+}

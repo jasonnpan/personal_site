@@ -1,0 +1,53 @@
+:root {
+    --red: #D98481;
+    --pink: #D9b9AA;
+    --yellow: #EDCA7F;
+    --green: #91B5A9;
+    --teal: #8CD9C0;
+    --blue: #3671bd;
+    --grey: #B4BFC5;
+    --black: #19171F;
+    --white: #eceaea;
+}
+
+* {
+    font-family: 'Jost', sans-serif;
+}
+
+.navbar__container {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: #3671bd;
+    align-items: center;
+}
+
+.navbar__button__container {
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    margin: auto;
+}
+
+.nav__button {
+    padding: 0px 20px;
+    line-height: 40px;
+    color: #eceaea;
+    cursor: pointer;
+}
+
+.name {
+    margin-right: 50px;
+    color: #eceaea;
+    float: inline-start;
+    line-height: 40px;
+}
+
+.logo {
+    position: relative;
+    height: 40px;
+    margin-right: 10px;
+}

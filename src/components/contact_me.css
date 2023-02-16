@@ -1,0 +1,41 @@
+* {
+    font-family: 'Jost', sans-serif;
+}
+
+.contact_me {
+    height: 30vh;
+    background-color: #38a387;
+}
+
+.contact__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.contact__label {
+    width: 27vw;
+    margin-top: 50px;
+    text-align: left;
+    color: white;
+}
+
+.logo__block {
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+#email {
+    width: 70px;
+}
+
+a {
+    color: black;
+}
+
+a:link { text-decoration: none };
+a:visited { text-decoration: none };
+a:active { text-decoration: none };
+a:hover { text-decoration: none };

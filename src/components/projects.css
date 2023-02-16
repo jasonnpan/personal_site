@@ -1,0 +1,68 @@
+* {
+    font-family: 'Jost', sans-serif;
+}
+
+.projects {
+    display: block;
+    height: 60vh;
+    z-index: 2;
+    background-color: #115cbd;
+}
+
+.header {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 500;
+}
+
+.project__boxes {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    width: 23vw;
+    height: 33vh;
+    margin: 20px 5vw;
+    border-radius: 20px;
+    background-color: #8CD9C0;
+}
+
+#box1 {
+    background-image: url('../assets/overwatch.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box2 {
+    background-image: url('../assets/hiphipzooray.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box3 {
+    background-image: url('../assets/grapple_ballkour.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.project__labels {
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+}
+
+.box__label {
+    width: 33vw;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+/* .project__pic {
+    width: 10vw;
+    height: 35vh;
+    margin: 1vw 100px;
+} */

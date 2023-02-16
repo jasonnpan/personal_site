@@ -1,4 +1,4 @@
 body {
-    overflow: hidden;
+    overflow-y: scroll;
     margin: 0;
 }

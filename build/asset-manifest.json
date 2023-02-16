@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal_site/static/css/main.831c9bbb.css",
+    "main.js": "/personal_site/static/js/main.1bf55762.js",
+    "static/media/headshot.png": "/personal_site/static/media/headshot.ee9ceb821162d9498bfa.png",
+    "static/media/trees.gif": "/personal_site/static/media/trees.52749b226ea22e9ae98e.gif",
+    "static/media/hiphipzooray.png": "/personal_site/static/media/hiphipzooray.56357094fb0efaf8def3.png",
+    "static/media/overwatch.jpg": "/personal_site/static/media/overwatch.9cf52de2eb4489b1f31d.jpg",
+    "static/media/email_logo.png": "/personal_site/static/media/email_logo.00cad07fc47e95dab520.png",
+    "static/media/grapple_ballkour.png": "/personal_site/static/media/grapple_ballkour.efb9b6c6f2d3cfedda72.png",
+    "static/media/react_logo.png": "/personal_site/static/media/react_logo.f6b89d232c9bc9f828e5.png",
+    "static/media/c_logo.png": "/personal_site/static/media/c_logo.837a49116fe3c020f47d.png",
+    "static/media/waterfall.gif": "/personal_site/static/media/waterfall.c6b0bd809a38235a5430.gif",
+    "static/media/css_logo.png": "/personal_site/static/media/css_logo.4e67641bb68b658d9b2b.png",
+    "static/media/jason_logo.png": "/personal_site/static/media/jason_logo.6fee0c0abdf6f1ba0c18.png",
+    "static/media/html_logo.png": "/personal_site/static/media/html_logo.d50fc7a86b6f3764610b.png",
+    "static/media/unity_logo.png": "/personal_site/static/media/unity_logo.5d00858e4d35f388ea22.png",
+    "static/media/js_logo.jpg": "/personal_site/static/media/js_logo.c5673894e81ac648da9d.jpg",
+    "static/media/java_logo.jpg": "/personal_site/static/media/java_logo.6c64373d3b7415758078.jpg",
+    "index.html": "/personal_site/index.html",
+    "main.831c9bbb.css.map": "/personal_site/static/css/main.831c9bbb.css.map",
+    "main.1bf55762.js.map": "/personal_site/static/js/main.1bf55762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.831c9bbb.css",
+    "static/js/main.1bf55762.js"
+  ]
+}

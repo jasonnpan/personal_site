@@ -17,7 +17,7 @@ function Navbar({link1, link2, link3, link4}) {
                className="nav__button">Toolkit</div>
           <div onClick={() => link4.current.scrollIntoView({behavior: "smooth"})}
                className="nav__button">Contact Me</div>
-          <div className="nav__button">Resume</div>
+          <div className="nav__button"><a className="resume" href="https://drive.google.com/file/d/1Ipx1YR2q1dl-7hwaHGHJn1zMfGSp3VVc/view?usp=sharing">Resume</a></div>
         </div>
       </div>
     </div>
